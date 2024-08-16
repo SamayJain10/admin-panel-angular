@@ -1,0 +1,7 @@
+.main-container {
+    margin-left: 250px; /* Offset content by sidebar width */
+    padding: 20px;
+    position: relative;
+    z-index: 1; /* Ensure the main content is on a lower z-index than the sidebar */
+  }
+  
